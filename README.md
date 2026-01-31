@@ -1,24 +1,40 @@
 # ✅ Habit Tracker
 
-> Build better habits, one day at a time
+**Build better habits, one day at a time**
 
-## What is it?
+> *A habit tracking app concept designed to help you build and maintain positive daily routines.*
 
-Habit Tracker is a visual habit tracking concept designed to help you build and maintain daily habits. Track your routines, visualize your streaks, and stay motivated with a clean, intuitive interface.
+## What It Does
 
-## 🎯 Concept
+Habit Tracker is a wellness application concept focused on building and maintaining positive daily habits. Currently in the design phase with visual mockups and UI concepts, the project envisions a clean, motivating interface for tracking daily habits, viewing streaks, and staying accountable.
 
-This project represents the design and planning phase of a habit tracking application. The vision includes:
+## 🎯 Planned Features
 
-- 📅 **Daily Habit Tracking** — Check off habits as you complete them each day
-- 🔥 **Streak Tracking** — Visualize your consistency with streak counters
-- 📊 **Progress Charts** — See your habit completion rates over time
-- 🎨 **Clean Design** — Minimal, distraction-free interface focused on your goals
-- 🔔 **Reminders** — Never miss a habit with timely notifications
+- 📋 Daily habit checklist with completion tracking
+- 🔥 Streak counters and streak protection
+- 📊 Progress visualisation over time
+- 🏆 Milestone celebrations and achievements
+- 🔔 Customisable reminders
+- 📱 Mobile-first responsive design
+- 📈 Weekly and monthly habit analytics
+
+## 🖼️ Design Concepts
+
+The repository contains visual mockups exploring the app's UI:
+
+- `File_000.png` — UI layout and component design
+- `habit.jpg` — Visual concept and branding
+
+## 🛠️ Planned Tech Stack
+
+- **React Native** or **Flutter** — Cross-platform mobile
+- **Supabase** or **Firebase** — Backend and auth
+- **Push Notifications** — Habit reminders
+- **Charts Library** — Progress visualisation
 
 ## 🚀 Status
 
-🛠️ **In Development** — Currently in the design and prototyping phase.
+🎨 **Design Phase** — Visual concepts and UI mockups complete. Development not yet started.
 
 ## 📄 License
 
